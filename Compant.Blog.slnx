@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Compant.Blog.BLL/Compant.Blog.BLL.csproj" />
+  <Project Path="Compant.Blog.DAL/Compant.Blog.DAL.csproj" />
+  <Project Path="Compant.Blog.PL/Compant.Blog.PL.csproj" />
+</Solution>
