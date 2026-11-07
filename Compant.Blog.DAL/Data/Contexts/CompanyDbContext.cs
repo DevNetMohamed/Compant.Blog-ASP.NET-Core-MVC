@@ -9,10 +9,10 @@ using System.Threading.Tasks;
 
 namespace Compant.Blog.DAL.Data.Contexts
 {
-    internal class CompanyDbContext : DbContext
+    public class CompanyDbContext : DbContext
     {
 
-        CompanyDbContext() : base( )
+        public CompanyDbContext() : base( )
         {
             
         }

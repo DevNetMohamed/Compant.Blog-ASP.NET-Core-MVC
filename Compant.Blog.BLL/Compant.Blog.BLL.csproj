@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Compant.Blog.DAL\Compant.Blog.DAL.csproj" />
+  </ItemGroup>
+
 </Project>
